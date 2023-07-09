@@ -97,7 +97,7 @@ nav {
 }
 .secondary-button {
   padding: 1rem 2.5rem;
-  background-color: #fe9e0d;
+  background-color: #ec8c69;
   outline: none;
   border: none;
   border-radius: 5rem;
@@ -115,7 +115,7 @@ nav {
   font-size: 1.5rem;
 }
 .secondary-button:hover {
-  background-color: #e48f0f;
+  background-color: #ec8c69;
 }
 .about-section-container {
   margin-top: 20rem;
@@ -141,7 +141,7 @@ nav {
 }
 .primary-subheading {
   font-weight: 700;
-  color: #fe9e0d;
+  color: #ec8c69;
   font-size: 1.15rem;
 }
 .about-buttons-container {
@@ -255,7 +255,7 @@ nav {
 .testimonials-stars-container svg {
   margin: 0rem 0.25rem;
   font-size: 1.5rem;
-  color: #fe9e0d;
+  color: #ec8c69;
 }
 .testimonial-section-bottom h2 {
   margin-top: 1.5rem;
